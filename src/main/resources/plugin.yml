@@ -1,0 +1,9 @@
+name: StaffCMD
+version: 1.0
+author: moderator_man
+main: net.oldschoolminecraft.scmd.StaffCMD
+commands:
+  staff:
+    description: Go into staff mode, swap your inventory for tools
+    permission: scmd.use
+    default: op
